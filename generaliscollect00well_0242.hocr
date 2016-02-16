@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./generaliscollect00well_0242.png"; bbox 0 0 2414 3105; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 756 1332 1336 1918">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 756 1332 1336 1918">
+     <span class='ocr_line' id='line_1_1' title="bbox 756 1332 1336 1918; baseline 0 1187"><span class='ocrx_word' id='word_1_1' title='bbox 756 1332 1336 1918; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1890 1336 2001 1343">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1890 1336 2001 1343">
+     <span class='ocr_line' id='line_1_2' title="bbox 1890 1336 2001 1343; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1890 1336 2001 1343; x_wconf 54' lang='grc' dir='ltr'>-η-Ἶ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1903 1346 2021 1914">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1903 1346 2021 1914">
+     <span class='ocr_line' id='line_1_3' title="bbox 1903 1346 2021 1914; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1903 1346 2021 1914; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1611 1470 1917 1519">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1611 1470 1917 1519">
+     <span class='ocr_line' id='line_1_4' title="bbox 1611 1470 1917 1519; baseline 0.026 -8"><span class='ocrx_word' id='word_1_4' title='bbox 1611 1470 1917 1519; x_wconf 78' lang='lat' dir='ltr'>CATEGHISMUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1666 1582 1866 1597">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1666 1582 1866 1597">
+     <span class='ocr_line' id='line_1_5' title="bbox 1666 1582 1866 1597; baseline 0 1508"><span class='ocrx_word' id='word_1_5' title='bbox 1666 1582 1866 1597; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1602 1664 1901 1722">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1602 1664 1901 1722">
+     <span class='ocr_line' id='line_1_6' title="bbox 1602 1664 1901 1722; baseline 0.017 -4"><span class='ocrx_word' id='word_1_6' title='bbox 1602 1664 1901 1722; x_wconf 82' lang='lat' dir='ltr'><strong>Vrouwen.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 2173 0 2408 3105">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 2173 0 2408 3105">
+     <span class='ocr_line' id='line_1_7' title="bbox 2173 0 2408 3105; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 2173 0 2408 3105; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
